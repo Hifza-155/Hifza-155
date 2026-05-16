@@ -2,9 +2,8 @@
 
 I am a Computer Science student at Qarshi University with a focus on backend development and system internals. I enjoy tearing down frameworks to understand how they work and building clean applications. 
 
-### 🔭 I’m currently working on ...
-- **Pharmacogenomics Research (FYP):** Building data pipelines to map DNA-to-Protein expression and analyzing genomic data tracking layers for automated software intervention.
-- **Spring Boot Backend Services:** Engineering robust RESTful APIs with an emphasis on explicit configuration, inversion of control (IoC), and reliable data mapping.
+**Pharmacogenomics Research (FYP):** Building a Spring Boot pipeline to parse VCF files, track repeat expansions across family generations, and visualize genetic anticipation using dynamic charts.
+**Spring Boot Backend Services:** Engineering robust RESTful APIs with an emphasis on explicit configuration, inversion of control (IoC), and reliable data mapping.
 
 ### 🌱 I’m currently learning ...
 - Deeper Data Structures and Algorithms (DSA) optimization to write cleaner, more efficient code.
